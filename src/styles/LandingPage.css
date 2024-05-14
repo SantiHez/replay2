@@ -1,0 +1,13 @@
+*{
+    font-family: system-ui;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    margin-top: 150px;
+    text-align: center;
+}
